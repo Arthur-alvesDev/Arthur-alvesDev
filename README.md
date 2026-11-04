@@ -1,98 +1,132 @@
-# 👋 Olá! Eu sou Arthur Alves
+ 
+<div align="center">
 
-### 💻 Desenvolvedor em formação | Estudante de Tecnologia da Informação
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A0B,50:14532D,100:22C55E&height=220&section=header&text=ARTHUR%20ALVES&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20constru%C3%A7%C3%A3o%20%7C%20Leveling%20Up...&descAlignY=60&animation=fadeIn" width="100%"/>
 
-Bem-vindo(a) ao meu perfil do GitHub! 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=55FF55&center=true&vCenter=true&width=650&lines=OL%C3%81%2C+MUNDO!;BEM-VINDO+AO+MEU+UNIVERSO;CODANDO+NOVAS+AVENTURAS..." alt="Typing SVG"/>
 
-Sou estudante de **Informática no CEET Vasco Coutinho**, interessado em tecnologia, programação e desenvolvimento de sistemas. Estou sempre buscando aprender novas tecnologias e transformar conhecimentos em projetos práticos.
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/cat-computer.gif" width="180" alt="Animação de computador"/>
 
----
-
-## 🧑‍💻 Sobre mim
-
-- 🎓 Estudante de Informática no CEET Vasco Coutinho.
-- 📚 Atualmente cursando o 2º módulo.
-- 💻 Interesse em desenvolvimento de software e Tecnologia da Informação.
-- 🚀 Aprendendo e desenvolvendo projetos na área de programação.
-- 📍 Vila Velha – Espírito Santo, Brasil.
+</div>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🟩 Sobre mim
+
+```text
+╔══════════════════════════════════════╗
+║          PLAYER: ARTHUR ALVES        ║
+╠══════════════════════════════════════╣
+║  Classe: Desenvolvedor em formação   ║
+║  Localização: Vila Velha - ES        ║
+║  Instituição: CEET Vasco Coutinho    ║
+║  Curso: Informática                  ║
+║  Nível: Sempre evoluindo!            ║
+╚══════════════════════════════════════╝
+```
+
+Olá! Sou Arthur Alves, estudante de Informática no CEET Vasco Coutinho. Estou desenvolvendo minhas habilidades na programação e explorando diferentes tecnologias para transformar ideias em projetos.
+
+Meu objetivo é evoluir constantemente, aprender novas ferramentas e construir soluções criativas por meio da tecnologia.
+
+**Minha missão:** aprender, desenvolver, testar e evoluir a cada projeto! 🚀
+
+---
+
+## 🧰 Inventário de habilidades
+
+<div align="center">
 
 ### Linguagens de programação
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+<img src="https://skillicons.dev/icons?i=python,cs,java,js" />
 
-### Desenvolvimento Web
+### Desenvolvimento web
 
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 ### Banco de dados e ferramentas
 
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+
 </div>
 
 ---
 
-## 📂 Meus projetos
+## 🏗️ Construções — Meus projetos
 
-| Projeto | Descrição |
-|---|---|
-| 🛍️ Sistema de Loja | Sistema de compras com catálogo de produtos e carrinho. |
-| 🍽️ Sistema de Restaurante | Gerenciamento de mesas, estoque, caixa e relatórios. |
-| 🚌 Ponto de Ônibus | Site temático para um bar e restaurante capixaba. |
-| 🗄️ Sistema de Cadastro | Aplicação desenvolvida com C# e MySQL. |
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🛍️ Sistema de Loja | Catálogo, carrinho e finalização de compras | Python |
+| 🍽️ Sistema de Restaurante | Protótipo com mesas, estoque, caixa e relatórios | Desenvolvimento de sistemas |
+| 🚌 Ponto de Ônibus | Site temático de bar e restaurante capixaba | HTML, CSS e JavaScript |
+| 👨‍💻 Cadastro de Candidatos | Sistema de cadastro integrado a banco de dados | C# e MySQL |
+
+> Cada projeto representa uma nova construção na minha jornada como desenvolvedor.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do jogador
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-alvesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-alvesDev&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Arthur-alvesDev&show_icons=true&theme=chartreuse-dark&hide_border=true&locale=pt-br&include_all_commits=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-alvesDev&layout=compact&theme=chartreuse-dark&hide_border=true&locale=pt-br"/>
+
+<img src="https://streak-stats.demolab.com?user=Arthur-alvesDev&theme=chartreuse-dark&hide_border=true&locale=pt_BR" width="70%"/>
+
 </div>
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Próximas missões
 
-- 📚 Aprimorar meus conhecimentos em lógica de programação.
-- 💻 Desenvolver aplicações e sistemas completos.
-- 🚀 Aprender novas linguagens e tecnologias.
-- 🤝 Colaborar em projetos e compartilhar conhecimentos.
-- 💼 Conquistar oportunidades na área de Tecnologia da Informação.
+- [x] Começar minha jornada na programação.
+- [x] Aprender lógica de programação.
+- [x] Desenvolver projetos acadêmicos.
+- [x] Conhecer diferentes linguagens.
+- [ ] Aprimorar minhas habilidades em C#.
+- [ ] Desenvolver aplicações completas.
+- [ ] Aprender novas tecnologias.
+- [ ] Conquistar minha primeira oportunidade na área de TI.
 
 ---
 
-## 📫 Contato
+## 🌐 Entre em contato comigo
 
-<div>
-  <a href="https://github.com/Arthur-alvesDev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- Adicione aqui seu LinkedIn e e-mail -->
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arthur-alves-mchado-7953b63a3/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Arthur-alvesDev" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://w.app/euhwr4" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:arthuralvesmachado00@gmail.com">
+<img src="https://img.shields.io/badge/Email-Enviar%20mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  
-### ⭐ Obrigado por visitar meu perfil!
 
-**"A tecnologia transforma ideias em soluções. Estou sempre aprendendo para construir as minhas."**
+### 💚 Obrigado por visitar meu perfil!
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/cat-computer.gif" width="150"/>
+
+**"Grandes construções começam com pequenos blocos."**
+
+<img src="https://komarev.com/ghpvc/?username=Arthur-alvesDev&label=VISITANTES&color=22c55e&style=for-the-badge" alt="Contador de visitantes"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:14532D,100:071A0B&height=120&section=footer" width="100%"/>
 
 </div>
